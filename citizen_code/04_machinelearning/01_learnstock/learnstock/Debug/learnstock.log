@@ -1,0 +1,3 @@
+﻿  learnstock_main.cpp
+c:\users\survey-2\documents\github\citizen_code\04_machinelearning\01_learnstock\learnstock_main.cpp(137): warning C4244: 'return': 'double' から 'int' への変換です。データが失われる可能性があります。
+  learnstock.vcxproj -> C:\Users\survey-2\Documents\GitHub\citizen_code\04_machinelearning\01_learnstock\learnstock\Debug\learnstock.exe
